@@ -1,0 +1,3 @@
+[submodule "HeatArea-Map"]
+	path = HeatArea-Map
+	url = https://github.com/ElNox/HeatArea-Map
